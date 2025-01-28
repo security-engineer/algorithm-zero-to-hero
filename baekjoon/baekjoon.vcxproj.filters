@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\bronze5">
+      <UniqueIdentifier>{378c143b-5964-4fdc-9f64-3b64a17e3eb5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\bronze4">
+      <UniqueIdentifier>{a83ff070-3052-4ad8-987b-7b4734e2c0b8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\bronze3">
+      <UniqueIdentifier>{1973263f-9664-4b9d-9672-76046759ae33}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\bronze1">
+      <UniqueIdentifier>{bc4268d8-ecef-4849-9869-7a7f49961f5a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="num25083.cpp">
+      <Filter>소스 파일\bronze5</Filter>
+    </ClCompile>
+    <ClCompile Include="num3003.cpp">
+      <Filter>소스 파일\bronze5</Filter>
+    </ClCompile>
+    <ClCompile Include="num2444.cpp">
+      <Filter>소스 파일\bronze3</Filter>
+    </ClCompile>
+    <ClCompile Include="num10988.cpp">
+      <Filter>소스 파일\bronze3</Filter>
+    </ClCompile>
+    <ClCompile Include="num1157.cpp">
+      <Filter>소스 파일\bronze1</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
